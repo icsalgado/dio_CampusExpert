@@ -1,0 +1,5 @@
+Publique um artigo sobre habilidades comportamentais:
+
+Crie um artigo em “Artigos” dentro da DIO sobre alguma habilidade que você acredita fazer diferença para você, ou que faria diferença nas outras pessoas dentro do ambiente de trabalho na área da tecnologia.
+
+Lembre-se de sempre trazer conteúdos próprios, mas claro, que é super recomendado buscar referências para você ter bons embasamentos durante o desenvolvimento do seu artigo.
